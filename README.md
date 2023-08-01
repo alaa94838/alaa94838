@@ -23,7 +23,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![php](http://img.shields.io/badge/-php-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![php](http://img.shields.io/badge/-php-0078D6?style=flat-square&logo=php&logoColor=ffffff)
 
 
 
