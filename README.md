@@ -18,7 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![wordpress](https://img.shields.io/badge/-wordpress-563D7C?style=flat-square&logo=wordpress)
-![laravel](http://img.shields.io/badge/-laravel-EA1179?style=flat-square&logo=laravel&logoColor=000)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![php](http://img.shields.io/badge/-php-6F61C0?style=flat-square&logo=php&logoColor=000)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
